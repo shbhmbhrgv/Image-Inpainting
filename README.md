@@ -2,7 +2,6 @@
 
 Final Project for Machine Learning course
 
-
 In our modern world, we come across a variety of images daily. The multitude of diversity involved in these images is
 huge. Yet, when we come across an image with a missing or obscured region that we have not seen before, we are still able
 to imagine its exact content. The way we picture its content is by analysing the image to find the surrounding regions and
