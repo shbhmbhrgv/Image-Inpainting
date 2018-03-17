@@ -1,4 +1,4 @@
-# Image-Inpainting using CNN in Tensor Flow
+# Image-Inpainting using CNN (Tensor Flow)
 
 Final Project for Machine Learning course
 
